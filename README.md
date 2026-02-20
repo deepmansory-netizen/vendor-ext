@@ -1,2 +1,0 @@
-# vendor-ext
-Other
